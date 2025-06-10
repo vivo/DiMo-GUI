@@ -6,7 +6,7 @@ export CUDA_VISIBLE_DEVICES=4
 # English
 
 # models=( "osatlas-7b" "osatlas-4b" "uground" "ugroundv1"  )
-models=( "uground" )
+models=( "osatlas-7b" )
 dataset="pro"
 
 for model in "${models[@]}" 
