@@ -54,7 +54,7 @@ pip install transformers==4.37.2
 You can download the **ScreenSpot-Pro** dataset from this huggingface [link](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro), or use the download code below:
 
 ```bash
-huggingface-cli download --resume-download  --repo-type dataset likaixin/ScreenSpot-v2-variants --local-dir ./data
+huggingface-cli download --resume-download  --repo-type dataset likaixin/ScreenSpot-Pro --local-dir ./data
 ```
 
 You can obtain the **ScreenSpot-V2** dataset from this [link](https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants), and refer to this [issue](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/issues/6)
