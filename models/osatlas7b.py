@@ -97,7 +97,7 @@ class OSAtlas7BModel():
             device_map=device, 
             trust_remote_code=True, 
             torch_dtype=torch.bfloat16,
-            attn_implementation="flash_attention_2"
+            # attn_implementation="flash_attention_2"
             # output_attentions=True
         ).eval()
         self.tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, trust_remote_code=True)
