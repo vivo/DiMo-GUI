@@ -8,8 +8,8 @@ This is the official repo for DiMo-GUI, a plug-and-play framework for advancing 
 
 <div style='display:flex; gap: 0.25rem; '>
 <!-- <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a> -->
-<a href='https://arxiv.org/abs/2311.16922'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
-<a href='https://arxiv.org/abs/2311.16922'><img src='https://img.shields.io/badge/Homepage-DiMo-green'></a>
+<a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
+<a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Homepage-DiMo-green'></a>
 <!-- <a href='https://twitter.com/Leon_L_S_C'><img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'></a> -->
 </div>
 
