@@ -80,8 +80,8 @@ We provide the json file of experimental results in the paper in `results` folde
 </div>
 
 - **Comparison of various models on ScreenSpot-V2**
-<div style="text-align: center;">
-    <img src="images/table_2.png" alt="teaser" width="90%">
+<div style=align="center">
+    <img src="images/table_2.png" alt="teaser" width="80%">
 </div>
 
 
