@@ -4,6 +4,33 @@
 
 # DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 <!-- **VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding** -->
+
+<div class="is-size-5 publication-authors">
+  <!-- Paper authors -->
+  <span class="author-block">
+    <a href="https://wuhang03.github.io/" target="_blank">Hang Wu</a><sup>1,3</sup>,</span>
+  <span class="author-block">
+    <a href="SECOND AUTHOR PERSONAL LINK" target="_blank">Hongkai Chen</a><sup>3†</sup>,</span>
+  <span class="author-block">
+    <a href="https://vanoracai.github.io/" target="_blank">Yujun Cai</a><sup>2</sup>,</span>
+  <span class="author-block">
+    <a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Chang Liu</a><sup>3</sup>,</span>
+  <span class="author-block">
+    <a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Qingwen Ye</a><sup>3</sup>,</span>
+  <span class="author-block">
+    <a href="https://faculty.ucmerced.edu/mhyang/" target="_blank">Ming-Hsuan Yang</a><sup>1</sup>,</span>
+  <span class="author-block">
+    <a href="https://wangywust.github.io/" target="_blank">Yiwei Wang </a><sup>1</sup>,</span>
+</div>
+
+<div class="is-size-5 publication-authors">
+  <span class="author-block"><sup>1</sup>University of California, Merced, 
+    <sup>2</sup>The University of Queensland, 
+    <br><sup>3</sup>vivo Mobile Communication Co., Ltd
+  </span>
+  <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
+</div>
+
 This is the official repo for DiMo-GUI, a plug-and-play framework for advancing test-time scaling in GUI grounding.
 
 <div style='display:flex; gap: 0.25rem; '>
