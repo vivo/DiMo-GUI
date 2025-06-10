@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <div class="is-size-5 publication-authors" style="font-size: 14px;">
+  <div class="is-size-5 publication-authors" style="font-size: 18px;">
     <!-- Paper authors -->
     <span class="author-block">
       <a href="https://wuhang03.github.io/" target="_blank">Hang Wu</a><sup>1,3</sup>,</span>
@@ -24,7 +24,7 @@
       <a href="https://wangywust.github.io/" target="_blank">Yiwei Wang </a><sup>1</sup>,</span>
   </div>
 
-  <div class="is-size-5 publication-authors" style="font-size: 14px;">
+  <div class="is-size-5 publication-authors" style="font-size: 18px;">
     <span class="author-block"><sup>1</sup>University of California, Merced, 
       <sup>2</sup>The University of Queensland, 
       <br><sup>3</sup>vivo Mobile Communication Co., Ltd
