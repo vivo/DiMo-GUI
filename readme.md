@@ -3,12 +3,9 @@
 </p> -->
 
 # DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
-<!-- **VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding** -->
 
 
-  <!-- **VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding** -->
-
-<div style="text-align: center;">
+<div align="center">
   <div class="is-size-5 publication-authors" style="font-size: 14px;">
     <!-- Paper authors -->
     <span class="author-block">
@@ -37,7 +34,7 @@
 </div>
 
 
-<div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;'>
+<div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;' align="center">
   <!-- <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a> -->
   <a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
   <a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Homepage-DiMo-green'></a>
