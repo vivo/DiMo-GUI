@@ -7,5 +7,3 @@ accelerate>=0.26.0
 matplotlib
 openai
 ninja
-wheel==0.41.3
-flash_attn==2.7.4.post1 --no-build-isolation

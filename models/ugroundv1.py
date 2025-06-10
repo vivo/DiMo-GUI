@@ -99,7 +99,7 @@ class UGroundV1Model():
             device_map="cuda", 
             trust_remote_code=True, 
             torch_dtype=torch.bfloat16,
-            attn_implementation="flash_attention_2"
+            # attn_implementation="flash_attention_2"
         ).eval()
         self.tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, trust_remote_code=True)
         self.processor = AutoProcessor.from_pretrained(model_name_or_path, trust_remote_code=True)

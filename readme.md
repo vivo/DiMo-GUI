@@ -43,9 +43,7 @@ conda env create -n dimo-gui
 source activate dimo-gui
 cd DiMo-GUI
 pip install -r requirements.txt
-MAX_JOBS=4 pip install flash-attn --no-build-isolation
 ```
-It may took a while to compile flash_attn. If you cannot successfully install and compile flash-attn, you can also try to delete the related code in models, which will not affect the evaluations. The model outputs and performance metrics remain unchanged — this only results in slower inference speed and higher memory usage during execution.
 
 
 Note that the transformers version required by osatlas-4b is different from others, you need to run the following command to run osatlas-4b:
