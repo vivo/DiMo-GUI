@@ -19,7 +19,7 @@ This is the official repo for DiMo-GUI, a plug-and-play framework for advancing 
 * [2025-06-11]: 🚀 Codes released.
 
 ## 🎯 Overview
-<div style="text-align: center;">
+<div align="center">
     <img src="images/teaser.jpg" alt="teaser" width="50%">
 </div>
 
@@ -29,7 +29,7 @@ This is the official repo for DiMo-GUI, a plug-and-play framework for advancing 
   2. A progressive zoom-in mechanism to increasingly focus on the target region.
   3. A dynamic halting system that enables timely decision-making and early stopping to reduce overthinking and unnecessary computational cost.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="images/radar.png" alt="radar" width="70%">
 </div>
 
@@ -75,7 +75,7 @@ We provide the json file of experimental results in the paper in `results` folde
 
 ## 🏅 Experiments
 - **Comparison of various models on ScreenSpot-Pro.**
-<div style="text-align: center;">
+<div align="center">
     <img src="images/table_1.png" alt="teaser" width="90%">
 </div>
 
@@ -90,15 +90,15 @@ We provide the json file of experimental results in the paper in `results` folde
 
 
 ## 📌 Examples
-<div style="text-align: center;">
-    <img src="images/results_1.png" alt="teaser" width="90%">
+<div align="center">
+    <img src="images/results_1.png" alt="teaser" width="80%">
 </div>
 
 - **Examples on ScreenSpot-Pro.** On the left is the original model's prediction, where the red box represents the ground truth and the blue dot indicates the predicted coordinates. On the right is the result after integrating DiMo-GUI, where the model is able to localize more accurately according to the instruction
 
 
-<div style="text-align: center;">
-    <img src="images/results_2.png" alt="teaser" width="90%">
+<div align="center">
+    <img src="images/results_2.png" alt="teaser" width="80%">
 </div>
 
 - **Examples on ScreenSpot-V2.** On the Screenspot benchmark, which features relatively low resolution and simple scenes, DiMo-GUI also enhances the model's localization capabilities.
