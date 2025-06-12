@@ -141,8 +141,14 @@ If you find our project useful, we hope you can star our repo and cite our paper
 
 ```
 
+
 ## 📝 Related Projects
 Our repository is based on the following projects, we sincerely thank them for their great efforts and excellent work.
 - [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding): latest GUI grounding benchmark.
 - [Iterative-Narrowing](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing): Iterative Narrowing for GUI grounding.
 - [OS-Atlas](https://github.com/OS-Copilot/OS-Atlas) , [UGround](https://github.com/OSU-NLP-Group/UGround): SOTA GUI agents.
+
+## License
+
+This project is licensed under the terms of the Apache License 2.0.
+You are free to use, modify, and distribute this software under the conditions of the license. See the LICENSE file for details.
