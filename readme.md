@@ -37,6 +37,7 @@
 <div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;' align="center">
   <!-- <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a> -->
   <a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
+  <a href='https://www.techrxiv.org/users/933923/articles/1304524-dimo-gui-advancing-test-time-scaling-in-gui-grounding-via-modality-aware-visual-reasoning'><img src='https://img.shields.io/badge/Paper-TechRxiv-blue'></a>
   <a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Homepage-DiMo-green'></a>
   <!-- <a href='https://twitter.com/Leon_L_S_C'><img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'></a> -->
 </div>
@@ -44,6 +45,7 @@
 ## 🔥 Update
 <!-- * [2024-04-05]: ⭐️⭐️⭐️ VCD is selected as Poster Highlight in CVPR 2024! (Top 11.9% in accepted papers)
 * [2023-11-29]: ⭐️ Paper of VCD online. Check out [this link](https://arxiv.org/abs/2311.16922) for details. -->
+* [2025-06-18]: 🚀 Paper released on TechRxiv.
 * [2025-06-11]: 🚀 Codes released.
 
 ## 🎯 Overview

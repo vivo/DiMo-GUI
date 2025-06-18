@@ -490,9 +490,9 @@ def main(args):
         img_path = os.path.join(args.screenspot_imgs, filename)
 
         if task_instance["gt_type"] == "positive":
-            # response = model.ground_only_positive(instruction=sample["prompt_to_evaluate"], image=img_path)
+            response = model.ground_only_positive(instruction=sample["prompt_to_evaluate"], image=img_path)
             # response = model.ground_only_positive_iterative(instruction=sample["prompt_to_evaluate"], subset=subset, image=img_path)
-            response = model.ground_only_positive_iterative_conquer(instruction=sample["prompt_to_evaluate"], subset=subset, image=img_path, max_iter=max_iter, threshold=threshold)
+            # response = model.ground_only_positive_iterative_conquer(instruction=sample["prompt_to_evaluate"], subset=subset, image=img_path, max_iter=max_iter, threshold=threshold)
         elif task_instance["gt_type"] == "negative":
             response = model.ground_allow_negative(instruction=sample["prompt_to_evaluate"], image=img_path)
         # print(response)
