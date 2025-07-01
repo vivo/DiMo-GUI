@@ -140,7 +140,11 @@ We provide the json file of experimental results in the paper in `results` folde
 ## 📑 Citation
 If you find our project useful, we hope you can star our repo and cite our paper as follows:
 ```
-
+@article{wu2025dimo,
+  title={DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning},
+  author={Wu, Hang and Chen, Hongkai and Cai, Yujun and Liu, Chang and Ye, Qingwen and Yang, Ming-Hsuan and Wang, Yiwei},
+  year={2025}
+}
 ```
 
 
